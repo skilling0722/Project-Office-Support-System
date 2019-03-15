@@ -46,7 +46,7 @@ Run:
 
 Caution:
 ***
-This program works in conjunction with the server and database, so it is not available when the required server and database are not in operation.
+    This program works in conjunction with the server and database, so it is not available when the required server and database are not in operation.
 
 Example:
 ***
