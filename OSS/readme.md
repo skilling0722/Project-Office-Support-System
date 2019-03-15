@@ -3,9 +3,8 @@ Office Support System(OSS)
 
 What?:
 ***
-OSS Provides a variety of functions for collaboration.
-
-Function: memo&alarm, login, file, weather, chat
+    OSS Provides a variety of functions for collaboration.
+    Function: memo&alarm, login, file, weather, chat
 
 Environment:
 ***
