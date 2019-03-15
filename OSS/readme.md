@@ -1,13 +1,13 @@
 Office Support System(OSS)
 ***
 
-What?:
-***
+What?
+
     OSS Provides a variety of functions for collaboration.
     Function: memo&alarm, login, file, weather, chat
-
-Environment:
 ***
+Environment:
+
     window 7 or more
     ubuntu 16.04 or 18.04
     pymysql
@@ -19,9 +19,9 @@ Environment:
     Papago NMT API
     Mysql DB
     AWS EC2 server
-
-composition:
 ***
+composition:
+
     hom.py
 
     main dir - main_ui.py, main_widget.py, popup.py
@@ -39,14 +39,16 @@ composition:
     img dir - GUI img
 
     sound dir - alarm sound
+***
 
 Run:
 ***
     python hom.py
 
 Caution:
-***
+
     This program works in conjunction with the server and database, so it is not available when the required server and database are not in operation.
+***
 
 Example:
 ***
