@@ -54,8 +54,8 @@ Example:
 Function
 ![function](https://user-images.githubusercontent.com/41464934/54429692-8e3a5500-4764-11e9-9cd0-18cdbed62ce7.JPG)
 ***
-
 Achitecture
+
 ![Achitecture](https://user-images.githubusercontent.com/41464934/54429694-8ed2eb80-4764-11e9-9685-20bd6ad26d9a.JPG)
 ***
 Login screen
